@@ -67,6 +67,6 @@ There are many different challenges that we ran into while developing our websit
 
 ## ⭐ How will our project be available to the public? What is our plan to scale our project?
 
-📟We made our website accessible for all people and also have the translate function so we strongly believe that the project can be used by all people who need help and are willing to help. What we want to focus on most is building a community that can provide help and asks for help when needed. 
+📟We made our website accessible for everyone and also have the translate function so we strongly believe that the project can be used by all people who need help and are willing to help. What we want to focus on most is building a community that can provide help and asks for help when needed. 
 
 📟Our big goals moving forward consist of collecting more data, partnering with charitable organizations, and building relationships with hospitals to have more volunteer doctors. 
