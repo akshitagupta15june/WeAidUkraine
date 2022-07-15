@@ -70,3 +70,17 @@ There are many different challenges that we ran into while developing our websit
 📟We made our website accessible for everyone and also have the translate function so we strongly believe that the project can be used by all people who need help and are willing to help. What we want to focus on most is building a community that can provide help and asks for help when needed. 
 
 📟Our big goals moving forward consist of collecting more data, partnering with charitable organizations, and building relationships with hospitals to have more volunteer doctors. 
+
+## 🚀 How we have used **Github** in our project? 🚀
+
+We used Github in different ways:
+
+**Pull Requests and Issues:** We created pull requests on our GitHub repository as we were a team of three and we're working on our local repository. If any of our team members gets an idea for a new feature, she created the issue for all members to see and suggest their opinions on how to implement it.
+
+**Github Branches** Github branches helped a lot for beta testing of updated code before merging the new code into the original code. Our team approximately created 4-5 branches during the hackathon.
+
+**Github Pages** we deployed our website at https://akshitagupta15june.github.io/WeAidUkraine.github.io/ using Github pages. It was really simple to deploy our site through GitHub pages and we are planning to use this feature in future hackathons.
+
+**Github Templates** We used the Github default LICENSE template for adding an MIT license to our project.
+
+**Github Actions** Although implementing the actions was a kind of hectic task for our team but we tried to implement them for our pull requests. We still had to learn about GitHub's actions for future hackathons.
