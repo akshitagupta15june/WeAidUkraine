@@ -3,6 +3,8 @@
 **WeAidUkraine** is an all-in-one web platform for Ukrainian citizens and refugees that helps them to connect with the nearest military units, telehealth services, and emergency SOS services. Our whole application has language translation options that will provide a convenient way to find the nearest resources such as food, water, and shelter to provide vital aid to the people during this difficult time. We  have also built a donation platform for humanitarian relief.
 
 ### Try it out [WeAidUkraine](https://akshitagupta15june.github.io/WeAidUkraine.github.io/)
+### Want to see our [presentation](https://youtu.be/fEyQyLhWiPM)?
+
 
 ## 💡 Inspiration
 
