@@ -6,7 +6,7 @@
 
 
 ### Try it out [WeAidUkraine](https://akshitagupta15june.github.io/WeAidUkraine.github.io/)
-### Want to see our [presentation](https://youtu.be/fEyQyLhWiPM)?
+### Want to see our [presentation](https://youtu.be/B_M6dXaLoVE)?
 
 
 ## 💡 Inspiration
