@@ -14,7 +14,7 @@
 When we heard about the disruption of daily life in Ukraine, I felt sad for the people living there. As students who are passionate about technology, we decided to create a project that can help as many people as possible. 
 
 
-## ⭐Project introduction: 
+## ⭐ Project introduction: 
 
 **WeAidUkraine** - aims to help people facing problems in Ukraine. From our research, we understand people from Ukraine are suffering from losing their houses, and lack of food, or healthcare. Therefore, we created a project to address these problems: 
 
@@ -30,7 +30,7 @@ When we heard about the disruption of daily life in Ukraine, I felt sad for the 
  
 💘However, what makes our project special is that users can **translate the website into any language**. In our opinion, this is a powerful function because not all people understand English. 
 
-## ⚙️ What it does
+## ⚙️ What it does?
 
 WeAidUkraine covers many different problems, we have a different approach for each issue: 
 
@@ -44,7 +44,7 @@ WeAidUkraine covers many different problems, we have a different approach for ea
 
 🔦Our **chatbot** was built with the function to get information and needs from people for further help. 
 
-## 🔧 How we built it
+## 🔧 How we built it?
 
 - We designed a website using **HTML5, CSS3, JavaScript, and Bootstrap.** 
 
@@ -89,3 +89,6 @@ We used Github in different ways:
 **Github Templates** We used the Github default LICENSE template for adding an MIT license to our project.
 
 **Github Actions** Although implementing the actions was a kind of hectic task for our team but we tried to implement them for our pull requests. We still had to learn about GitHub's actions for future hackathons.
+
+
+#### So this was all about our project, we hope that our project can help people in ukraine who are facing the hard times.
